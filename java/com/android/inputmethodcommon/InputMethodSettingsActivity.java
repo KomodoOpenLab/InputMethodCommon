@@ -14,7 +14,7 @@
  * limitations under the License
  */
 
-package ca.idrc.inputmethodcommon;
+package com.android.inputmethodcommon;
 
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;

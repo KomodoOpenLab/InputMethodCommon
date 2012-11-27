@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package ca.idrc.inputmethodcommon;
+package com.android.inputmethodcommon;
 
 import android.content.Context;
 import android.content.Intent;

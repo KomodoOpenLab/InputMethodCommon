@@ -5,4 +5,4 @@ Upstream remote (origin): https://android.googlesource.com/platform/frameworks/o
 ## Branches
 
 * **develop**: main development branch (all feature/bug branches should pull from here)
-* **jb-release**: original branch (do not fork!)
+* **[version]-release**: version release branches (do not fork!)

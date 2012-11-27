@@ -6,3 +6,7 @@ Upstream remote (origin): https://android.googlesource.com/platform/frameworks/o
 
 * **develop**: main development branch (all feature/bug branches should pull from here)
 * **[version]-release**: version release branches (do not fork!)
+
+## Getting Here
+
+1. [Renamed package references from com.android.inputmethod... to ca.idrc.inputmethod...] (https://github.com/jorgesilva/InputMethodCommon/commit/73ee20d0e170b9a44d0851d8f5c661897b8c0b35)

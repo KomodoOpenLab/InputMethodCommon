@@ -9,4 +9,4 @@ Upstream remote (origin): https://android.googlesource.com/platform/frameworks/o
 
 ## Getting Here
 
-1. [Renamed package references from com.android.inputmethod... to ca.idrc.inputmethod...] (https://github.com/jorgesilva/InputMethodCommon/commit/73ee20d0e170b9a44d0851d8f5c661897b8c0b35)
+1. [Renamed package references] (https://github.com/jorgesilva/InputMethodCommon/commit/73ee20d0e170b9a44d0851d8f5c661897b8c0b35) from com.android.inputmethod... to ca.idrc.inputmethod...
